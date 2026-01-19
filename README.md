@@ -61,7 +61,7 @@ devops-reference-library/
 
 ## 📚 Categories
 
-### 1️⃣ [Linux Administration & System Fundamentals](Category 1 - LINUX ADMINISTRATION & SYSTEM FUNDAMENTALS.md)
+### 1️⃣ [Linux Administration & System Fundamentals](01-linux-administration.md)
 
 Master essential Linux system administration skills:
 - User and group management

@@ -1,0 +1,39 @@
+# 🚀 DevOps Reference Library
+
+> **Comprehensive technical reference guide for Linux, DevOps, Cloud, and Automation**
+
+A curated collection of practical guides, commands, configurations, and best practices compiled from 110+ technical articles. This repository serves as an absolute reference for IT professionals, DevOps engineers, system administrators, and anyone working in cloud infrastructure and automation.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+---
+
+## 📋 Table of Contents
+
+- [Overview](#overview)
+- [Repository Structure](#repository-structure)
+- [Categories](#categories)
+- [How to Use](#how-to-use)
+- [Target Audience](#target-audience)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+---
+
+## 🎯 Overview
+
+This repository consolidates essential DevOps knowledge into **12 comprehensive categories**, each covering critical topics with:
+
+- ✅ **Practical commands** and real-world examples
+- ✅ **Best practices** for production environments
+- ✅ **Configuration templates** ready to use
+- ✅ **Explanatory comments** for better understanding
+- ✅ **Troubleshooting guides** for common issues
+- ✅ **Security considerations** for each technology
+
+---
+
+## 📁 Repository Structure
